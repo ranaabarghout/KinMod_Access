@@ -1,0 +1,44 @@
+constucting escherichia coli
+constucting escherichia coli
+constucting escherichia coli
+constucting escherichia coli
+constucting escherichia coli
+constucting escherichia coli
+results for escherichia coli are: 
+ [(1, 7, 822557)]
+constucting 5.3.1.9
+results for 5.3.1.9 are: 
+ [(2, 5727, 883375)]
+constucting activators
+    uid cid   iid        strv   floatv       tag
+1568965   4  5178         E4P   0.0350 Inhibitor
+1568966   4   169         6PG  58.0000 Inhibitor
+1572300   4    17        EDTA  97.0000 Inhibitor
+1572301   4  6454         S6P   0.7000 Inhibitor
+1572302   4   169         6PG   0.6700 Inhibitor
+1622781   4    77         GTP   0.0630 Inhibitor
+1630856   4  5178         E4P   0.0600 Inhibitor
+1630857   4   169         6PG   0.0200 Inhibitor
+1631027   4    17        EDTA 101.0000 Inhibitor
+1631028   4  6454         S6P   0.0300 Inhibitor
+1631029   4  5178         E4P   1.8000 Inhibitor
+1631030   4   169         6PG   0.1500 Inhibitor
+1653031   4   169         6PG   0.1100 Inhibitor
+1653032   4  5178         E4P   0.0014 Inhibitor
+1653245   4  1778 CID49799769   0.2700 Inhibitor
+1653246   4 10379 CID10400331   0.0050 Inhibitor
+1667268   4   169         6PG   0.1480 Inhibitor
+1667270   4 10379 CID10400331   0.0002 Inhibitor
+1667271   4  6454         S6P   0.0400 Inhibitor
+1667277   4 18507   CID321824   5.5400 Inhibitor
+1667278   4  6229     DB02445  17.2000 Inhibitor
+1668244   4    17        EDTA 120.0000 Inhibitor
+1668245   4  6454         S6P   0.3600 Inhibitor
+1668246   4   169         6PG   3.0000 Inhibitor
+1670010   4    17        EDTA   6.0000 Inhibitor
+1670011   4  6454         S6P   0.5400 Inhibitor
+1670012   4  5178         E4P   1.8000 Inhibitor
+1679828   4  5178         E4P   0.1640 Inhibitor
+1679829   4   169         6PG   6.0000 Inhibitor
+1682003   4    89         fum  10.0000 Inhibitor
+1682471   4   651         SVR   0.2900 Inhibitor
